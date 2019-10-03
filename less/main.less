@@ -109,6 +109,11 @@
         width: 100%;
     }
 }
+.whb-color-dark .navigation-style-default .item-level-0>a {
+    font-family: 'Karla'!important;
+    color: @azul;
+    font-size: 18px;
+}
 
 
 /*Esquema por defecto para las secciones*/
@@ -173,6 +178,7 @@ ol {
         font-size: 3.0em;
         font-weight: normal;
         line-height: 1.3em;
+        text-align: center;
 
     }
     h3 {
@@ -181,7 +187,7 @@ ol {
     p,
     ul {
         color: @gris;
-        font-size: 1.2em;
+        font-size: 1.5em;
          font-family: 'Aller';
         
     }
@@ -194,7 +200,7 @@ ol {
             margin-left: 15px;
             margin-bottom: 10px;
             &::before {
-                content: "•";
+               
                 color: @azul;
                 padding-right: 10px;
                 position: absolute;
@@ -228,5 +234,340 @@ ol {
     }
     .center {
         text-align: center;
+    }
+}
+
+#banner {
+     background: url(../img/banner.jpg) no-repeat right;
+    padding: 365px 0;
+    .center {
+           position: relative;
+    right: 265px;
+        top: 87px;
+    }
+    
+    h1 span {
+        font-weight: bold;
+    }
+    .azul {
+               background-color: #00559c;
+    padding: 15px 5px 61px 5px;
+    max-width: 1250px;
+    margin-bottom: 20px;
+        
+        
+        }
+    h3 {
+               color: white;
+    position: relative;
+    top: -89px;
+        }
+    .btn {
+        position: relative;
+            top: -70px;
+            background-color: @rosa;
+            &:hover {
+                 background: @naranja;
+            }
+    }
+    }
+#quienes {
+    padding: inherit;
+    padding-top: 50px;
+    h2 {
+        text-align: center;
+            text-align: center;
+    margin-top: 50px;
+    }
+    p {
+            max-width: 500px;
+    text-align: justify;
+            margin: 20px auto;
+    }
+    img {
+            position: relative;
+    z-index: 1;
+    margin-top: -321px;
+    }
+}
+#soluciones {
+    padding: 133px 0;
+        position: relative;
+    top: -98px;
+     background: url(../img/solu.jpg) no-repeat top right;
+    h2 span {
+        display: block;
+        font-weight: bold;
+    }
+    .col {
+            padding: 25px;
+    }
+    ul {
+            position: relative;
+    left: 100px;
+            margin-bottom: 30px;
+    }
+    .prueba_col {
+            position: relative;
+    left: 50px;
+    }
+}
+#blog {
+    margin-top: -391px;
+    h2 {
+        text-align: center;
+    }
+    img {
+        position: relative;
+    top: 74px;
+    }
+    .gris {
+        padding: 50px;
+        background-color: @gris_fondo;
+    }
+}
+#video {
+    h2 {
+        text-align: center;
+    }
+    img.uno {
+        position: relative;
+    float: right;
+    right: 100px;
+    top: -147px;
+    }
+}
+#advertencia{ 
+       padding: 235px 0;
+     background: url(../img/advertencia.jpg) no-repeat center;
+    p {
+        text-align: center;
+    position: relative;
+    top: 75px;
+        color: @azul;
+    }
+}
+#contacto {
+        margin-top: 79px;
+    background-color: @azul;
+    h2 {
+        text-align: center;
+    }
+    h2, p {
+        color: white;
+    }
+    img.flor {
+            margin-top: -188px;
+        position: relative;
+    left: 100px;
+    }
+    strong {
+            font-size: 1.5em;
+    display: block;
+    }
+    p.contacto {
+            font-weight: 100;
+    }
+    .prueba_col {
+        position: relative;
+        left: 50px;
+    }
+    .caldera-grid .form-control {
+    
+    background-color: transparent;
+    border: 1px solid white;
+        color: white;
+}
+     .caldera-grid .form-control::placeholder, .caldera-grid .form-control  { 
+        color: white;
+       font-family: 'Aller';
+         font-style: italic;
+       
+    }
+    .btn {
+            float: right;
+    font-size: 25px;
+    background-color: transparent;
+    border: 1px solid white;
+        &:hover{
+            background-color: @rosa;
+            color: white;
+        }
+    }
+    .blanco {
+          
+    background-color: white;
+       padding: 10px 9px 1px 15px;
+    position: relative;
+    left: 205px;
+    margin-top: -6px;
+        
+        p {
+            color: @azul;
+            font-weight: bold;
+             font-family: 'Karla';
+            position: relative;
+    left: 50px;
+            
+        }
+    }
+}
+/**QUIENES SOMOS*/
+#quienes_somos {
+     background: url(../img/quienes_somos.jpg) no-repeat center;
+    p {
+        max-width: 500px;
+    text-align: justify;
+            margin: auto;
+        font-weight: normal;
+    }
+    h1 {
+        text-align: center;
+    }
+    .col {
+        position: relative;
+    top: 20;
+    left: 120px;
+    }
+}
+#valores {
+    .gris {
+        background-color: @gris_fondo;
+    }
+    img {
+         display: block;
+    margin: auto;
+            margin-top: 50px;
+    }
+    img.flor {
+           
+    position: relative;
+    left: 400px;
+    top: 75px;
+    margin-top: -300px;
+    }
+    h3 {
+            text-align: center;
+    margin-top: 20px;
+        color: @azul;
+    }
+    .col2 {
+        padding: 10px;
+    }
+    p {
+        text-align: center;
+    }
+}
+
+/***NUESTROS SERVICIOS***/
+#conoc {
+    h1 {
+            font-weight: 100!important;
+    }
+    .apoyo {
+    color: @azul;
+}
+}
+
+#truno {
+    span {
+            font-style: italic;
+    }
+    p {
+            font-weight: bold;
+    max-width: 400px;
+    margin: auto;
+    position: relative;
+        em {
+        display: block;
+        font-weight: 100;
+    }
+    }
+    .col {
+        padding: inherit;
+            padding-top: 50px;
+    padding-bottom: 50px;
+    }
+    .coluno {
+        position: relative;
+    right: 50px;
+    }
+    .colunouno {
+        position: relative;
+    top: 95px;
+    }
+    .coldos {
+        position: relative;
+    left: 50px;
+    }
+    h3.azul {
+        text-align: center;
+        color: @azul;
+            position: relative;
+    top: 74px;
+        font-weight: bold;
+    }
+    img.flor {
+            margin: auto;
+    position: relative;
+    margin-top: -121px;
+    left: 427px;
+    display: block;
+    width: 220px;
+    }
+    .naranja {
+        background-color: @naranja;
+            padding: 12px 5px 1px 5px;
+        h3 {
+            text-align: center;
+            color: white;
+            
+            font-weight: 100;
+            a {
+                font-weight: bold;
+            }
+        }
+    }
+}
+#pago {
+    .azul {
+        background-color: @azul;
+        h2, p {
+            color: white;
+            position: relative;
+                top: 56px;
+    right: 100px;
+        }
+        a {
+               color: white;
+        }
+    }
+    p {
+        text-align: center;
+        font-weight: 100;
+    }
+    img {
+        display: block;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    a {
+       font-weight: bold;
+    }
+    .col {
+    min-height: inherit;
+    }
+    
+}
+
+footer {
+    
+    background-color: white;
+    p {
+        text-align: center;
+        color: @azul!important;
+        
+        
     }
 }

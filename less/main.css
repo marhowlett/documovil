@@ -79,6 +79,11 @@
   max-width: 100%;
   width: 100%;
 }
+.whb-color-dark .navigation-style-default .item-level-0 > a {
+  font-family: 'Karla' !important;
+  color: #00559c;
+  font-size: 18px;
+}
 /*Esquema por defecto para las secciones*/
 .grid {
   display: flex;
@@ -131,6 +136,7 @@ ol {
   font-size: 3.0em;
   font-weight: normal;
   line-height: 1.3em;
+  text-align: center;
 }
 .template-section h3 {
   font-family: 'Aller';
@@ -138,7 +144,7 @@ ol {
 .template-section p,
 .template-section ul {
   color: #7d7d7d;
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-family: 'Aller';
 }
 .template-section ul li {
@@ -149,7 +155,6 @@ ol {
   margin-bottom: 10px;
 }
 .template-section ul li::before {
-  content: "•";
   color: #00559c;
   padding-right: 10px;
   position: absolute;
@@ -171,4 +176,313 @@ ol {
 }
 .template-section .center {
   text-align: center;
+}
+#banner {
+  background: url(../img/banner.jpg) no-repeat right;
+  padding: 365px 0;
+}
+#banner .center {
+  position: relative;
+  right: 265px;
+  top: 87px;
+}
+#banner h1 span {
+  font-weight: bold;
+}
+#banner .azul {
+  background-color: #00559c;
+  padding: 15px 5px 61px 5px;
+  max-width: 1250px;
+  margin-bottom: 20px;
+}
+#banner h3 {
+  color: white;
+  position: relative;
+  top: -89px;
+}
+#banner .btn {
+  position: relative;
+  top: -70px;
+  background-color: #da0080;
+}
+#banner .btn:hover {
+  background: #f2a226;
+}
+#quienes {
+  padding: inherit;
+  padding-top: 50px;
+}
+#quienes h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+#quienes p {
+  max-width: 500px;
+  text-align: justify;
+  margin: 20px auto;
+}
+#quienes img {
+  position: relative;
+  z-index: 1;
+  margin-top: -321px;
+}
+#soluciones {
+  padding: 133px 0;
+  position: relative;
+  top: -98px;
+  background: url(../img/solu.jpg) no-repeat top right;
+}
+#soluciones h2 span {
+  display: block;
+  font-weight: bold;
+}
+#soluciones .col {
+  padding: 25px;
+}
+#soluciones ul {
+  position: relative;
+  left: 100px;
+  margin-bottom: 30px;
+}
+#soluciones .prueba_col {
+  position: relative;
+  left: 50px;
+}
+#blog {
+  margin-top: -391px;
+}
+#blog h2 {
+  text-align: center;
+}
+#blog img {
+  position: relative;
+  top: 74px;
+}
+#blog .gris {
+  padding: 50px;
+  background-color: #eeeeee;
+}
+#video h2 {
+  text-align: center;
+}
+#video img.uno {
+  position: relative;
+  float: right;
+  right: 100px;
+  top: -147px;
+}
+#advertencia {
+  padding: 235px 0;
+  background: url(../img/advertencia.jpg) no-repeat center;
+}
+#advertencia p {
+  text-align: center;
+  position: relative;
+  top: 75px;
+  color: #00559c;
+}
+#contacto {
+  margin-top: 79px;
+  background-color: #00559c;
+}
+#contacto h2 {
+  text-align: center;
+}
+#contacto h2,
+#contacto p {
+  color: white;
+}
+#contacto img.flor {
+  margin-top: -188px;
+  position: relative;
+  left: 100px;
+}
+#contacto strong {
+  font-size: 1.5em;
+  display: block;
+}
+#contacto p.contacto {
+  font-weight: 100;
+}
+#contacto .prueba_col {
+  position: relative;
+  left: 50px;
+}
+#contacto .caldera-grid .form-control {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+#contacto .caldera-grid .form-control::placeholder,
+#contacto .caldera-grid .form-control {
+  color: white;
+  font-family: 'Aller';
+  font-style: italic;
+}
+#contacto .btn {
+  float: right;
+  font-size: 25px;
+  background-color: transparent;
+  border: 1px solid white;
+}
+#contacto .btn:hover {
+  background-color: #da0080;
+  color: white;
+}
+#contacto .blanco {
+  background-color: white;
+  padding: 10px 9px 1px 15px;
+  position: relative;
+  left: 205px;
+  margin-top: -6px;
+}
+#contacto .blanco p {
+  color: #00559c;
+  font-weight: bold;
+  font-family: 'Karla';
+  position: relative;
+  left: 50px;
+}
+/**QUIENES SOMOS*/
+#quienes_somos {
+  background: url(../img/quienes_somos.jpg) no-repeat center;
+}
+#quienes_somos p {
+  max-width: 500px;
+  text-align: justify;
+  margin: auto;
+  font-weight: normal;
+}
+#quienes_somos h1 {
+  text-align: center;
+}
+#quienes_somos .col {
+  position: relative;
+  top: 20;
+  left: 120px;
+}
+#valores .gris {
+  background-color: #eeeeee;
+}
+#valores img {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+#valores img.flor {
+  position: relative;
+  left: 400px;
+  top: 75px;
+  margin-top: -300px;
+}
+#valores h3 {
+  text-align: center;
+  margin-top: 20px;
+  color: #00559c;
+}
+#valores .col2 {
+  padding: 10px;
+}
+#valores p {
+  text-align: center;
+}
+/***NUESTROS SERVICIOS***/
+#conoc h1 {
+  font-weight: 100!important;
+}
+#conoc .apoyo {
+  color: #00559c;
+}
+#truno span {
+  font-style: italic;
+}
+#truno p {
+  font-weight: bold;
+  max-width: 400px;
+  margin: auto;
+  position: relative;
+}
+#truno p em {
+  display: block;
+  font-weight: 100;
+}
+#truno .col {
+  padding: inherit;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#truno .coluno {
+  position: relative;
+  right: 50px;
+}
+#truno .colunouno {
+  position: relative;
+  top: 95px;
+}
+#truno .coldos {
+  position: relative;
+  left: 50px;
+}
+#truno h3.azul {
+  text-align: center;
+  color: #00559c;
+  position: relative;
+  top: 74px;
+  font-weight: bold;
+}
+#truno img.flor {
+  margin: auto;
+  position: relative;
+  margin-top: -121px;
+  left: 427px;
+  display: block;
+  width: 220px;
+}
+#truno .naranja {
+  background-color: #f2a226;
+  padding: 12px 5px 1px 5px;
+}
+#truno .naranja h3 {
+  text-align: center;
+  color: white;
+  font-weight: 100;
+}
+#truno .naranja h3 a {
+  font-weight: bold;
+}
+#pago .azul {
+  background-color: #00559c;
+}
+#pago .azul h2,
+#pago .azul p {
+  color: white;
+  position: relative;
+  top: 56px;
+  right: 100px;
+}
+#pago .azul a {
+  color: white;
+}
+#pago p {
+  text-align: center;
+  font-weight: 100;
+}
+#pago img {
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+#pago a {
+  font-weight: bold;
+}
+#pago .col {
+  min-height: inherit;
+}
+footer {
+  background-color: white;
+}
+footer p {
+  text-align: center;
+  color: #00559c !important;
 }
