@@ -87,14 +87,17 @@
 }
 
 
+
+
 .row {
     
     display: inherit;
 }
 /* Ajustes generales de la plantilla */
 .whb-scroll-stick .woodmart-logo img {  
-   max-height: 90px;
-    margin-top: -12px;
+ 
+    max-height: 61px;
+    margin-top: 4px;
         transform: scale(1.4) translateY(17px);
 }
 @import "vars";
@@ -299,6 +302,12 @@ ol {
         display: block;
         font-weight: bold;
     }
+    .fondo2 {
+        display: inherit;
+    }
+    .fondo1 {
+        display: none;
+    }
     .col {
             padding: 25px;
     }
@@ -317,7 +326,7 @@ ol {
     h2 {
         text-align: center;
     }
-    img {
+    img.flor {
         position: relative;
     top: 74px;
     }
@@ -424,10 +433,20 @@ ol {
     h1 {
         text-align: center;
     }
+    .fondo {
+       img {
+            display: none;
+            }
+    }
     .col {
         position: relative;
-    top: 20;
+    top: 20px;
     left: 120px;
+    }
+}
+#mision {
+    p {
+        text-align: justify;
     }
 }
 #valores {
@@ -470,8 +489,15 @@ ol {
 }
 
 #truno {
+    .imamovil1 {
+        display: none;
+    }
+    .imamovil2 {
+        display: inherit;
+    }
     span {
             font-style: italic;
+            font-weight: 100;
     }
     p {
             font-weight: bold;
@@ -571,3 +597,4 @@ footer {
         
     }
 }
+@import "responsive";

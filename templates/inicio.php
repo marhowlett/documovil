@@ -10,7 +10,7 @@
            
             </div>
              <h3>En DocuMóvil contamos con personal bilingüe <br>para apoyarte en todo tipo de trámites</h3>
- <a href="#" class="btn">VER SOLUCIONES AL MIGRANTE</a>
+ <a href="#" class="btn">SERVICIOS</a>
         </div> 
       
     </section>
@@ -45,7 +45,10 @@
 
             <div class="grid">
 
-                
+                <div class="col fondo1">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones2.png" alt="Soluciones">
+
+                </div>
                 <div class="col prueba_col">
                   <h2>Soluciones al Migrante
 <span>¡CONOCE NUESTROS SERVICIOS!</span></h2>
@@ -62,7 +65,7 @@ o corporativas</li>
                  </div>
                
                 </div>
-                <div class="col fondo">
+                <div class="col fondo2">
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones.png" alt="Soluciones">
 
                 </div>
@@ -70,10 +73,10 @@ o corporativas</li>
 
             </div>
            
-      
+     
     </section>
     <section id="blog" class="template-section">
-     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Soluciones">
+     <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Soluciones">
      <h2>BLOG</h2>
      <div class="gris">
         <div class="centro">
@@ -88,7 +91,7 @@ o corporativas</li>
     <section id="video" class="template-section">
     <h2>VIDEOS</h2>
      <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
-     <?php echo do_shortcode('[elfsight_youtube_gallery id="1"]');?>
+     <?php echo do_shortcode('[elfsight_youtube_gallery id="2"]');?>
      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
      
     

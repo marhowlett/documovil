@@ -12,11 +12,14 @@
 
         <div class="contenedor">
             <div class="grid">
+               <div class="col coldos imamovil1">
+                    <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
+                </div>
                 <div class="col coluno">
                    <p>APOSTILLA DE DOCUMENTOS 
-<em>desde 50 USD</em></p>
+<em>desde 30 USD</em></p>
  
-<p>NOTARíA 
+<p>NOTARÍA
 <em>desde 10 USD</em></p>
  
 <p>CITAS EN LÍNEA (médicas y legales) 
@@ -37,7 +40,7 @@
 <p>ESCRITOS DE CUALQUIER TIPO (Español - Inglés / Inglés - Español) 
 <em>desde 20 USD</em></p>
                 </div>
-                <div class="col coldos">
+                <div class="col coldos imamovil2">
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
                 </div>
             </div>
@@ -47,7 +50,7 @@
                 </div>
                 <div class="col coldos">
                 <p>BÚSQUEDA E IMPRESIÓN DE CURP
-20 USD</p>
+                    <em>20 USD</em></p>
  
 <p>PODER NOTARIALES<br>
  - General: <span>100 USD</span><br>
@@ -72,6 +75,9 @@ ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)
                 
             </div>
              <div class="grid">
+               <div class="col coldos imamovil1">
+                    <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
+                </div>
                 <div class="col coluno colunouno">
                    <p>TRAMITE DE PASAPORTE CUBANO
 <em>desde 200 USD</em></p>
@@ -85,7 +91,7 @@ ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)
 LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</p>
 
                 </div>
-                <div class="col coldos">
+                <div class="col coldos imamovil2">
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
                 </div>
             </div>
@@ -95,7 +101,7 @@ LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</p>
    <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/flor2.png" alt="Soluciones">
    <div class="naranja">
        <h3>Visita también el <a href=""><u>CALENDARIO DE EVENTOS</u></a> y el<br>
-<a href=""><u>DIRECTORIO DE RECURSOS</u></a> de interés para<br>
+<a href="https://documovilaz.com/wp-content/uploads/2019/10/DIRECTORIO-DE-RECUSOS.pdf"><u>DIRECTORIO DE RECURSOS</u></a> de interés para<br>
 la comunidad hispana en Arizona.</h3>
    </div>
     </section>
@@ -111,7 +117,7 @@ la comunidad hispana en Arizona.</h3>
                 </div>
                 <div class="col azul">
                     <h2 class="costo">¿Cuál es el costo?</h2>
-                    <p><a href="">Contáctanos</a> para recibir asesoría y<br> un presupuesto personalizado</p>
+                    <p><a href="#contacto">Contáctanos</a> para recibir asesoría y<br> un presupuesto personalizado</p>
                 </div>
             </div>
         </div>

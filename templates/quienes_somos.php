@@ -15,7 +15,7 @@
                 </p>
             </div>
             <div class="col fondo">
-                
+                <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/quienes_somos2.jpg" alt="Soluciones">
             </div>
        
          </div>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col2">
                   <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/respeto.png" alt="Acerca">
-                  <h3>PROFESIONALISMO</h3>
+                  <h3>RESPETO</h3>
                     <p>Base de cada servicio
 ofrecido.</p>
                 </div>
