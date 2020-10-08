@@ -70,8 +70,8 @@
 }
 /* Ajustes generales de la plantilla */
 .whb-scroll-stick .woodmart-logo img {
-  max-height: 61px;
-  margin-top: 4px;
+  max-height: 90px;
+  margin-top: -12px;
   transform: scale(1.4) translateY(17px);
 }
 /*Ajuste de FullWidth*/
@@ -405,9 +405,6 @@ ol {
 #conoc .apoyo {
   color: #00559c;
 }
-#truno em {
-  display: none;
-}
 #truno .imamovil1 {
   display: none;
 }
@@ -671,16 +668,5 @@ footer p {
     right: inherit;
     top: -71px;
     width: 30%;
-  }
-  #banner h3 {
-    color: white;
-    position: relative;
-    top: -114px;
-  }
-  #banner .azul {
-    background-color: #00559c;
-    padding: 38px 5px 61px 5px;
-    max-width: 1250px;
-    margin-bottom: 20px;
   }
 }
