@@ -405,6 +405,9 @@ ol {
 #conoc .apoyo {
   color: #00559c;
 }
+#truno em {
+  display: none;
+}
 #truno .imamovil1 {
   display: none;
 }

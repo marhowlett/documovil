@@ -1,16 +1,16 @@
 <?php
-    /* Template Name: Inicio */ 
+    /* Template Name: Inicio eng */ 
     get_header();
 ?>
 <section id="banner" class="template-section">
 
    <div class="center">    
-<h1>¿No sabes <span>inglés?</span><b>¡NO TE PREOCUPES!</b></h1>
+<h1>Don’t speak <span> Spanish?</span><b>DON'T WORRY!</b></h1>
            <div class="azul">
            
             </div>
-             <h3>En DocuMóvil contamos con personal bilingüe <br>para apoyarte en todo tipo de trámites</h3>
- <a href="#" class="btn">SERVICIOS</a>
+             <h3>DocuMovil has bilingual staff to <br>support you in all types of document procedures</h3>
+ <a href="#" class="btn">See services offered</a>
         </div> 
       
     </section>
@@ -26,10 +26,12 @@
 
                 </div>
                 <div class="col prueba_col">
-                  <h2>¿Quiénes somos?</h2>
-                    <p>Somos una red de especialistas dedicados a proporcionar servicios profesionales de documentación, trámites y orientación en diversas aéreas, mediante atención personalizada: en tu idioma y a precios accesibles, para el empoderamiento de la comunidad hispana en Arizona. </p>
+                  <h2>Who are we?</h2>
+                    <p>We are a network of specialist dedicated to providing professional documentation services, procedures,
+                    and orientation in diverse areas through personalized attention in your language and at affordable
+                    prices for the empowerment of the Hispanic community in Arizona. </p>
                     <div class="center">
-                 <a href="#" class="btn">Saber más</a>
+                 <a href="#" class="btn">Learn more</a>
                  </div>
                
                 </div>
@@ -50,23 +52,22 @@
 
                 </div>
                 <div class="col prueba_col">
-                  <h2>Soluciones al Migrante
-<span>¡CONOCE NUESTROS SERVICIOS!</span></h2>
+                  <h2>Migrant Solutions
+<span>Get to know our services!</span></h2>
                    <ul>
-                       <li>Notaria</li>
-<li>Traducciones e interpretaciones personales<br>
-o corporativas</li>
-<li>Orientación gratuita</li>
-<li>Apostila de documentos</li>
-<li>FBI fingerprints</li>
+                       <li>Notary</li>
+<li>Personal and corporative translations and interpretations</li>
+<li>Free guidance </li>
+<li>Document Apostille</li>
+<li>FBI Fingerprints</li>
                    </ul>
                     <div class="center">
-                 <a href="#" class="btn">Saber más</a>
+                 <a href="#" class="btn">Learn more</a>
                  </div>
                
                 </div>
                 <div class="col fondo2">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones.png" alt="Soluciones">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones.png" alt="Solutions">
 
                 </div>
 
@@ -76,7 +77,7 @@ o corporativas</li>
       
     </section>
     <section id="blog" class="template-section">
-     <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Soluciones">
+     <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Solutions">
      <h2>BLOG</h2>
      <div class="gris">
         <div class="centro">
@@ -99,7 +100,7 @@ o corporativas</li>
  
  
  
-  <?php include 'contacto.php'; ?>
+  <?php include 'contacto-eng.php'; ?>
 
 <?php 
     get_footer();
