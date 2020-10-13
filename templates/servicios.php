@@ -16,29 +16,24 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
                 </div>
                 <div class="col coluno">
-                   <p>APOSTILLA DE DOCUMENTOS 
-<em>desde 30 USD</em></p>
+                   <p>TRADUCCIONES E INTERPRETACIONES PERSONALES Y CORPORATIVAS</p>
  
-<p>NOTARÍA
-<em>desde 10 USD</em></p>
+<p>NOTARÍA MOVIL Y EN LA OFICINA</p>
  
-<p>CITAS EN LÍNEA (médicas y legales) 
-<em>desde 20 USD</em></p>
+<p>PODER NOTARIALES<br>
+ - General<!-- : <span>100 USD</span>--><br>
+ - Parental<!--: <span>50 USD</span>--><br>
+ - Cuidado de la salud<!--: <span>100 USD</span>--></p>
  
-<p>CONSULTA DE RECORD CRIMINAL 
-<em>desde 20 USD</em></p>
+<p>APOSTILLA DE DOCUMENTOS</p>
  
-<p>CONSULTA FECHAS DE CORTES 
-<em>20 USD</em></p>
+<p>CONSULTA DE RECORD CRIMINAL</p>
  
-<p>FAX, COPIAS, IMPRESIÓN BYN, COLOR, ESCANEO DE DOCUMENTOS, CORREO ELECTRÓNICO
-<em>desde 50¢</em></p>
+<p> REGISTRO DE LLC, EIN Y NOMBRE PARA PEQUEÑOS NEGOCIOS</p>
  
-<p>FBI FINGERPRINTS (record criminal federal) 
-<em>100 USD</em></p>
+<p>CARTAS DE VIAJE PARA MENORES</p>
  
-<p>ESCRITOS DE CUALQUIER TIPO (Español - Inglés / Inglés - Español) 
-<em>desde 20 USD</em></p>
+
                 </div>
                 <div class="col coldos imamovil2">
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
@@ -49,28 +44,19 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s2.png" alt="Soluciones">
                 </div>
                 <div class="col coldos">
-                <p>BÚSQUEDA E IMPRESIÓN DE CURP
-                    <em>20 USD</em></p>
+                <p>ITIN RENOVACION O PRIMERA VEZ</p>
  
-<p>PODER NOTARIALES<br>
- - General: <span>100 USD</span><br>
- - Parental: <span>50 USD</span><br>
- - Cuidado de la salud: <span>100 USD</span></p>
+<p>FBI FINGERPRINTS (Récord Criminal Federal)</p>
  
-<p>RED DE ABOGADOS EN MÉXICO (Civil, Penal, Familiar) </p>
+<p>ESCRITOS DE CUALQUIER TIPO (Español - Inglés / Inglés - Español)</p>
 
-<p>REPORTES DE POLICÍA 
-<em>20 USD</em></p>
+<p>REPORTES</p>
  
-<p>CONSULTA FECHAS DE CORTES 
-<em>20 USD</em></p>
+<p>REPORTES DE POLICÍA</p>
  
-<p>RESERVACIONES EN LÍNEA (RENTA DE AUTO, AIRBNB, BOLETOS PARA 
-ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)
-<em>desde 20 USD</em></p>
+<p>REPORTE DE CREDITO</p>
  
-<p>TRADUCCIONES E INTERPRETACIONES PERSONALES Y CORPORATIVAS 
-<em>desde 50 USD</em></p>
+<p>SOLICITUD DE RECORD PUBLICOS</p>
                 </div>
                 
             </div>
@@ -79,16 +65,16 @@ ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
                 </div>
                 <div class="col coluno colunouno">
-                   <p>TRAMITE DE PASAPORTE CUBANO
-<em>desde 200 USD</em></p>
+                   <p>CONSULTA FECHAS DE CORTES</p>
  
-<p>TRÁMITE DE PERMISO DE VIAJE PARA MENORES NO ACOMPAÑADOS A MÉXICO O ESTADOS UNIDOS
-<em>50 USD</em></p>
+<p>FAX, COPIAS, IMPRESIÓN BYN, COLOR, ESCANEO DE DOCUMENTOS, CORREO ELECTRÓNICO</p>
  
-<p>SEGURO DE AUTO EN EL EXTRANJERO</p>
+<p>CITAS EN LÍNEA (Médicas y Legales)</p>
 
-<p>ORIENTACIÓN GRATUITA EN TEMAS, 
-LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</p>
+<p>BÚSQUEDA E IMPRESIÓN DE CURP</p>
+                <p>RESERVACIONES EN LÍNEA (RENTA DE AUTO, AIRBNB, BOLETOS PARA ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)</p>
+                <p>TRAMITE DE PASAPORTE CUBANO</p>
+                <p>ORIENTACIÓN GRATUITA EN TEMAS, LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</p>
 
                 </div>
                 <div class="col coldos imamovil2">
@@ -110,14 +96,15 @@ la comunidad hispana en Arizona.</h3>
 
         <div >
             <div class="grid">
-                <div class="col">
+                <div class="col colespe">
                    <h2>¿Cómo pagar?</h2>
                    <img class="pagar" src="<?php echo get_stylesheet_directory_uri(); ?>/img/pago.png" alt="Pago">
                    <p>Efectivo y Tarjetas (débito y crédito)</p>
                 </div>
-                <div class="col azul">
-                    <h2 class="costo">¿Cuál es el costo?</h2>
-                    <p><a href="#contacto">Contáctanos</a> para recibir asesoría y<br> un presupuesto personalizado</p>
+                <div class="col">
+                   <section id="advertencia" class="template-section">
+<p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
+</section>
                 </div>
             </div>
         </div>

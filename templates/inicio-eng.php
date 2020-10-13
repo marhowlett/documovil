@@ -10,7 +10,7 @@
            
             </div>
              <h3>DocuMovil has bilingual staff to <br>support you in all types of document procedures</h3>
- <a href="#" class="btn">See services offered</a>
+ <a href="#contacto" class="btn">REQUEST A QUOTE HERE</a>
         </div> 
       
     </section>
@@ -98,7 +98,9 @@
     
 </section>
  
- 
+ <section id="advertencia" class="template-section">
+<p><u>We are not attorneys;  </u> therefore we do not provide legal advice.    <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
+</section>
  
   <?php include 'contacto-eng.php'; ?>
 

@@ -1,6 +1,4 @@
-<section id="advertencia" class="template-section">
-<p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
-</section>
+
 <section id="contacto" class="template-section">
  <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/flor.png" alt="Soluciones">
  <h2>CONTÁCTANOS</h2>
@@ -16,7 +14,7 @@
                
                 </div>
                 <div class="col fondo">
-                   <p> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatsapp.png" alt="Logo"> +1  480 253 7519</p>
+                   <p> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatsapp.png" alt="Logo"> <a href="wa.link/9zvkob">+1  480 253 7519</a></p>
                    <p> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/phone.png" alt="Logo"> +1  602 710 3885 </p>
                    <p> <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/location.png" alt="Logo"> P.O. Box 30181<br>
 Phoenix, AZ 85046 </p>

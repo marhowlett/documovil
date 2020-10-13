@@ -53,9 +53,9 @@
                     <em> $20 USD</em></p>
  
 <p>Power of Attorney<br>
- - General: <span>$100 USD</span><br>
- - Parental: <span>$50 USD</span><br>
- - Health Care Planning : <span>$100 USD</span></p>
+ - General<!--: <span>$100 USD</span>--><br>
+ - Parental<!--: <span>$50 USD</span>--><br>
+ - Health Care Planning<!-- : <span>$100 USD</span>--></p>
  
 <p>Attorney Network in Mexico (Civil, Criminal, Family)  </p>
 
@@ -107,15 +107,16 @@
 
         <div >
             <div class="grid">
-                <div class="col">
+                <div class="col colespe">
                    <h2>How to pay?</h2>
                    <img class="pagar" src="<?php echo get_stylesheet_directory_uri(); ?>/img/pago.png" alt="Pago">
                    <p>Cash and Cards (debit and credit)</p>
                 </div>
-                <div class="col azul">
-                    <h2 class="costo">How much it costs?</h2>
-                    <p><a href="#contacto">Contact us</a> to recieve an advice<br> and a custom budget
-</p>
+                <div class="col ">
+                    <section id="advertencia" class="template-section">
+<p><u>We are not attorneys;  </u> therefore we do not provide legal advice.    <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
+</section>
+
                 </div>
             </div>
         </div>

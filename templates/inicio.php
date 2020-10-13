@@ -10,7 +10,7 @@
            
             </div>
              <h3>En DocuMóvil contamos con personal bilingüe <br>para apoyarte en todo tipo de trámites</h3>
- <a href="#" class="btn">SERVICIOS</a>
+ <a href="#contacto" class="btn">SOLICITA UN PRESUPUESTO AQUÍ</a>
         </div> 
       
     </section>
@@ -97,7 +97,9 @@ o corporativas</li>
     
 </section>
  
- 
+ <section id="advertencia" class="template-section">
+<p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
+</section>
  
   <?php include 'contacto.php'; ?>
 

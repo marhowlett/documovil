@@ -95,6 +95,15 @@
 .grid .col2 {
   width: 33.33%;
 }
+.woodmart-sticky-social i {
+  width: 50px;
+  /* height: 50px; */
+  line-height: 50px;
+  font-size: 25px;
+}
+.woodmart-social-icons.text-center.icons-design-colored.icons-size-custom.color-scheme-dark.social-follow.social-form-square.woodmart-sticky-social.woodmart-sticky-social-right.buttons-loaded a {
+  height: 50px;
+}
 /*Ajuste general*/
 ol {
   list-style: decimal;
@@ -278,8 +287,9 @@ ol {
   top: -147px;
 }
 #advertencia {
-  padding: 235px 0;
+  padding: 174px 0;
   background: url(../img/advertencia.jpg) no-repeat center;
+  background-size: cover;
 }
 #advertencia p {
   text-align: center;
@@ -290,6 +300,9 @@ ol {
 #contacto {
   margin-top: 79px;
   background-color: #00559c;
+}
+#contacto a {
+  color: white;
 }
 #contacto h2 {
   text-align: center;
@@ -422,7 +435,7 @@ ol {
   position: relative;
 }
 #truno p em {
-  display: block;
+  display: none;
   font-weight: 100;
 }
 #truno .col {
@@ -468,6 +481,14 @@ ol {
 }
 #truno .naranja h3 a {
   font-weight: bold;
+}
+#pago {
+  padding: inherit;
+  margin-top: -97px;
+}
+#pago .colespe {
+  position: relative;
+  top: 70px;
 }
 #pago .azul {
   background-color: #00559c;
@@ -668,5 +689,16 @@ footer p {
     right: inherit;
     top: -71px;
     width: 30%;
+  }
+  #banner h3 {
+    color: white;
+    position: relative;
+    top: -114px;
+  }
+  #banner .azul {
+    background-color: #00559c;
+    padding: 38px 5px 61px 5px;
+    max-width: 1250px;
+    margin-bottom: 20px;
   }
 }
