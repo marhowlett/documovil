@@ -25,8 +25,15 @@
 	<?php endif ?>
 	
 	<!-- FOOTER -->
-	<footer class="template-section">
-    <p>DocuMóvil®  Todos los derechos reservados.</p>
+	<footer>
+  <section id="esbrillante"  class="template-section">
+   <div class="contenedor">
+       <div class="grid">
+           <div class="col"><img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/arizona1.png" alt="Soluciones"><img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/arizona2.png" alt="Soluciones"></div>
+           <div class="col"> <p>DocuMóvil®  Todos los derechos reservados.</p></div>
+       </div>
+   </div>
+   </section>
 </footer>
 <?php endif ?>
 </div> <!-- end wrapper -->

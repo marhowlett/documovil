@@ -39,6 +39,72 @@
         </div>
 
     </section>
+        <section id="conocenos" class="template-section">
+        <h2>CONÓCENOS</h2>
+     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
+        <div class="contenedor">
+   
+     <div class="grid">
+         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMASON</h3>
+             <p class="espe"><b>CO-OWNER</b></p>
+
+<p><b>Hometown:</b><br>
+  Cuernavaca, Morelos, México</p>
+
+             <p><b>Languages Spoken:</b><br>
+
+Spanish<br>
+
+English
+</p>
+<p><b>Education/Training:</b><br>
+Bachelor of International Relations<br>
+
+Specialty in International Trade Relations<br>
+
+Notary Public<br>
+
+Translator<br>
+
+Interpreter</p>
+         </div>
+         
+             <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/yessica.png" alt="Soluciones"><h3>YESSICA MORALES</h3>
+             <p class="espe"><b>CO-OWNER</b></p>
+
+<p><b>Hometown:</b><br>
+  Cd. Obregón, Sonora, México</p>
+
+             <p><b>Languages Spoken:</b><br>
+
+Spanish<br>
+
+English
+</p>
+<p><b>Education/Training:</b><br>
+Bachelor of Arts Justice Studies<br>
+
+Minor Transborder Chicano and Latino Studies<br>
+
+Associate in Applied Science Paralegal Studies<br>
+
+Associate in Arts<br>
+
+Notary Public<br>
+
+Translator<br>
+
+Interpreter</p>
+         
+         </div>
+     </div>
+     
+     
+     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
+     </div>
+     
+    
+</section>  
          
         <section id="valores" class="template-section">
 <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Soluciones">

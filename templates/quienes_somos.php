@@ -21,6 +21,8 @@
          </div>
 
     </section>
+        
+        
          <section id="mision" class="template-section">
 
         <div class="contenedor">
@@ -39,7 +41,57 @@
         </div>
 
     </section>
-         
+       <section id="conocenos" class="template-section">
+        <h2>CONÓCENOS</h2>
+     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
+        <div class="contenedor">
+   
+     <div class="grid">
+         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMASON</h3>
+             <p class="espe"><b>CO - DIRECTORA</b></p>
+
+<p><b>Lugar de Origen:</b><br>
+  Cuernavaca, Morelos, México</p>
+
+<p><b>Idiomas hablados:</b><br>
+  Español<br>
+  Inglés</p>
+
+<p><b>Educación/Entrenamiento:</b><br>
+  Licenciatura en Relaciones Internacionales<br>
+  Especialidad en Relaciones Mercantiles <br>
+  internacionales<br>
+  Notario Público<br>
+  Traductor<br>
+  Intérprete</p>
+         </div>
+         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/yessica.png" alt="Soluciones"><h3>YESSICA MORALES</h3>
+             <p class="espe"><b>CO - DIRECTORA</b></p>
+
+<p><b>Lugar de Origen:</b><br>
+  Cd. Obregón, Sonora, México</p>
+
+<p><b>Idiomas hablados:</b><br>
+  Español<br>
+  Inglés</p>
+
+<p><b>Educación/Entrenamiento:</b><br>
+   Licenciatura en Estudios de Justicia<br>
+Estudios Transfronterizos Chicanos y Latinos<br>
+Estudios Paralegales en Ciencias Aplicadas<br>
+Estudios en Artes<br>
+Notario Público<br>
+Traductor<br>
+Intérprete</p>
+         </div>
+     </div>
+     
+     
+     <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
+     </div>
+     
+    
+</section>  
         <section id="valores" class="template-section">
 <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/blog.png" alt="Soluciones">
      <h2>VALORES</h2>

@@ -16,29 +16,23 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
                 </div>
                 <div class="col coluno">
-                   <p>Document Apostille 
-<em>from $50 USD</em></p>
- 
-<p>Notary 
-<em>from $10 USD</em></p>
- 
-<p>Scheduling of Appointments (Medical or Legal) 
-<em>from $20 USD</em></p>
- 
-<p>Criminal Record Consultation 
-<em>from $20 USD </em></p>
- 
-<p>Court Date Query from 
-<em>$20 USD </em></p>
- 
-<p>Fax, copies, b/w or color printing, document scanning, emails  
-<em>from $.50</em></p>
- 
-<p>FBI Identity History Summary request from 
-<em>$100 USD</em></p>
- 
-<p>Writings of any kind (Spanish to English / English to Spanish) 
-<em>from $20 USD</em></p>
+<p>PERSONAL AND CORPORATE TRANSLATIONS AND INTERPRETATIONS (Spanish - English / English - Spanish)</p>
+
+<p>MOBILE NOTARY AND IN THE OFFICE<br>
+- Assistance Filing an Application/Form</p>
+<p>OWER OF ATTORNEY<br>
+
+ - General<br>
+
+- Parental<br>
+
+- Health Care</p>
+
+<p>APOSTILLE OF DOCUMENTS</p>
+
+<p>CRIMINAL RECORD CONSULTATION</p>
+<p>LLC, EIN AND NAME REGISTRATION FOR SMALL BUSINESSES</p>
+<p>TRAVEL LETTERS FOR MINORS</p>
                 </div>
                 <div class="col coldos imamovil2">
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
@@ -49,24 +43,19 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s2.png" alt="Soluciones">
                 </div>
                 <div class="col coldos">
-                <p>Search and printing of CURP from
-                    <em> $20 USD</em></p>
- 
-<p>Power of Attorney<br>
- - General<!--: <span>$100 USD</span>--><br>
- - Parental<!--: <span>$50 USD</span>--><br>
- - Health Care Planning<!-- : <span>$100 USD</span>--></p>
- 
-<p>Attorney Network in Mexico (Civil, Criminal, Family)  </p>
+<p>ITIN: FIRST TIME OR RENEWAL</p>
 
-<p>Police Report Retrieval
-<em> $20 USD</em></p>
- 
-<p>Online Reservation assistance (Car Rental, AirBnB, Tickets for events, Plane tickets, or hotels) 
-<em>$20 USD</em></p>
- 
-<p>Personal or corporative translations
-<em> $50 USD</em></p>
+<p>FBI FINGERPRINTS (Federal Criminal Record)</p>
+
+<p>WRITINGS OF ANY KIND (Spanish - English / English - Spanish)</p>
+
+<p>POLICE REPORT: SUBMIT OR INQUIRY </p>
+
+<p>CREDIT REPORT INQUIRY</p>
+
+<p>REQUEST OF PUBLIC RECORD</p>
+
+<p>COURT DATES INQUIRY</p>
  
 
                 </div>
@@ -77,15 +66,17 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
                 </div>
                 <div class="col coluno colunouno">
-                  <p>Cuban passport procedure 
-<em>$200 USD</em></p>
- 
-<p>Travel consent for non-accompanied minors abroad
-<em> $50 USD</em></p>
- 
-<p>Car insurance abroad </p>
+ <p>FAX, COPIES, B&W PRINT, COLOR, DOCUMENT SCANNING, EMAIL</p>
 
-<p>Free guidance and referral to the proper agencies or organizations in legal, financial, labor, family or civil matters</p>
+ <p>ONLINE APPOINTMENTS (Medical and Legal)</p>
+
+ <p>CURP SEARCH AND PRINT</p>
+
+ <p>ONLINE RESERVATIONS ASSISTANCE (CAR RENTAL, AIRBNB, TICKETS FOR SHOWS, AIRPLANE TICKETS, HOTELS)</p>
+
+ <p>CUBAN PASSPORT PROCESSING</p>
+
+ <p>FREE GUIDANCE ON LEGAL, FINANCIAL, LABOR, FAMILY AND CIVIL ISSUES</p>
 
                 </div>
                 <div class="col coldos imamovil2">
@@ -97,7 +88,7 @@
 <a href=""><u>CONTACT US</u></a> y te ayudaremos.</h3>
    <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/flor2.png" alt="Soluciones">
    <div class="naranja">
-       <h3>Visit the    <a href=""><u>EVENT CALENDAR</u></a> and the<br>
+       <h3>Visit the    <a href="https://calendar.google.com/calendar/u/0/r?tab=cc"><u>EVENT CALENDAR</u></a> and the<br>
 <a href="https://documovilaz.com/wp-content/uploads/2019/10/DIRECTORIO-DE-RECUSOS.pdf"><u> RESOURCE DIRECTORY</u></a> 
 </h3>
    </div>
@@ -109,11 +100,11 @@
             <div class="grid">
                 <div class="col colespe">
                    <h2>How to pay?</h2>
-                   <img class="pagar" src="<?php echo get_stylesheet_directory_uri(); ?>/img/pago.png" alt="Pago">
+                   <?php echo do_shortcode( '[slide-anything id="69"]' ); ?>
                    <p>Cash and Cards (debit and credit)</p>
                 </div>
                 <div class="col ">
-                    <section id="advertencia" class="template-section">
+                    <section id="advertencia2" class="template-section">
 <p><u>We are not attorneys;  </u> therefore we do not provide legal advice.    <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
 </section>
 

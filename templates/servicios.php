@@ -18,8 +18,8 @@
                 <div class="col coluno">
                    <p>TRADUCCIONES E INTERPRETACIONES PERSONALES Y CORPORATIVAS</p>
  
-<p>NOTARÍA MOVIL Y EN LA OFICINA</p>
- 
+<p>NOTARÍA MOVIL Y EN LA OFICINA<br>
+-Llenado de solicitudes y formatos</p>
 <p>PODER NOTARIALES<br>
  - General<!-- : <span>100 USD</span>--><br>
  - Parental<!--: <span>50 USD</span>--><br>
@@ -83,10 +83,10 @@
             </div>
         </div>
     <h3 class="azul">Si no encuentras aquí el trámite que necesitas por favor <br>
-<a href=""><u>CONTÁCTANOS</u></a> y te ayudaremos.</h3>
-   <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/flor2.png" alt="Soluciones">
+<a href="https://documovilaz.com/servicios/#contacto"><u>CONTÁCTANOS</u></a> y te ayudaremos.</h3>
+  
    <div class="naranja">
-       <h3>Visita también el <a href=""><u>CALENDARIO DE EVENTOS</u></a> y el<br>
+       <h3>Visita también el <a href="https://calendar.google.com/calendar/u/0/r?tab=cc"><u>CALENDARIO DE EVENTOS</u></a> y el<br>
 <a href="https://documovilaz.com/wp-content/uploads/2019/10/DIRECTORIO-DE-RECUSOS.pdf"><u>DIRECTORIO DE RECURSOS</u></a> de interés para<br>
 la comunidad hispana en Arizona.</h3>
    </div>
@@ -98,11 +98,12 @@ la comunidad hispana en Arizona.</h3>
             <div class="grid">
                 <div class="col colespe">
                    <h2>¿Cómo pagar?</h2>
-                   <img class="pagar" src="<?php echo get_stylesheet_directory_uri(); ?>/img/pago.png" alt="Pago">
+                   <?php echo do_shortcode( '[slide-anything id="69"]' ); ?>
+                   
                    <p>Efectivo y Tarjetas (débito y crédito)</p>
                 </div>
                 <div class="col">
-                   <section id="advertencia" class="template-section">
+                   <section id="advertencia2" class="template-section">
 <p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
 </section>
                 </div>

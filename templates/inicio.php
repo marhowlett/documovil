@@ -10,7 +10,9 @@
            
             </div>
              <h3>En DocuMóvil contamos con personal bilingüe <br>para apoyarte en todo tipo de trámites</h3>
- <a href="#contacto" class="btn">SOLICITA UN PRESUPUESTO AQUÍ</a>
+             <div class="bot">
+ <a href="#contacto" class="btn">SOLICITA UN PRESUPUESTO AQUÍ</a>  <a href="https://www.facebook.com/documovilaz/appointments" class="btn">PROGRAMA UNA CITA AQUÍ</a>
+       </div>
         </div> 
       
     </section>
@@ -29,7 +31,7 @@
                   <h2>¿Quiénes somos?</h2>
                     <p>Somos una red de especialistas dedicados a proporcionar servicios profesionales de documentación, trámites y orientación en diversas aéreas, mediante atención personalizada: en tu idioma y a precios accesibles, para el empoderamiento de la comunidad hispana en Arizona. </p>
                     <div class="center">
-                 <a href="#" class="btn">Saber más</a>
+                 <a href="https://documovilaz.com/quienes-somos/" class="btn">Saber más</a>
                  </div>
                
                 </div>
@@ -61,7 +63,7 @@ o corporativas</li>
 <li>FBI fingerprints</li>
                    </ul>
                     <div class="center">
-                 <a href="#" class="btn">Saber más</a>
+                 <a href="https://documovilaz.com/servicios/" class="btn">Saber más</a>
                  </div>
                
                 </div>
@@ -89,9 +91,9 @@ o corporativas</li>
         </div>
     </section>
     <section id="video" class="template-section">
-    <h2>VIDEOS</h2>
+    <h2>INSTAGRAM</h2>
      <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
-     <?php echo do_shortcode('[elfsight_youtube_gallery id="2"]');?>
+     <?php echo do_shortcode('[elfsight_instagram_feed id="2"]');?>
      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
      
     
@@ -99,6 +101,15 @@ o corporativas</li>
  
  <section id="advertencia" class="template-section">
 <p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
+</section>
+
+<section id="testimonios" class="template-section">
+   <div class="contenedor">
+    <h2>TESTIMONIOS</h2>
+     
+     <?php echo do_shortcode('[elfsight_testimonials_slider id="1"]');?>
+     </div>
+    
 </section>
  
   <?php include 'contacto.php'; ?>
