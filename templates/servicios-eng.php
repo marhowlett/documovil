@@ -16,23 +16,22 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
                 </div>
                 <div class="col coluno">
-<p>PERSONAL AND CORPORATE TRANSLATIONS AND INTERPRETATIONS (Spanish - English / English - Spanish)</p>
+<ul>
+    <li>PERSONAL AND CORPORATE TRANSLATIONS AND INTERPRETATIONS
+<br><em>(Spanish - English / English - Spanish)</em>
+</li>
+<li>MOBILE NOTARY AND IN THE OFFICE</li>
+<li>DOCUMENT PREPARATION</li>
+<li>POWER OF ATTORNEY
+<br><em>General</em>
+<br><em>Parental</em>
+<br><em>Health Care</em>
 
-<p>MOBILE NOTARY AND IN THE OFFICE<br>
-- Assistance Filing an Application/Form</p>
-<p>OWER OF ATTORNEY<br>
-
- - General<br>
-
-- Parental<br>
-
-- Health Care</p>
-
-<p>APOSTILLE OF DOCUMENTS</p>
-
-<p>CRIMINAL RECORD CONSULTATION</p>
-<p>LLC, EIN AND NAME REGISTRATION FOR SMALL BUSINESSES</p>
-<p>TRAVEL LETTERS FOR MINORS</p>
+</li>
+<li>APOSTILLE OF DOCUMENTS</li>
+<li>CRIMINAL RECORD CONSULTATION</li>
+<li>LLC, EIN AND NAME REGISTRATION FOR SMALL BUSINESSES</li>
+</ul>
                 </div>
                 <div class="col coldos imamovil2">
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
@@ -43,19 +42,15 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s2.png" alt="Soluciones">
                 </div>
                 <div class="col coldos">
-<p>ITIN: FIRST TIME OR RENEWAL</p>
-
-<p>FBI FINGERPRINTS (Federal Criminal Record)</p>
-
-<p>WRITINGS OF ANY KIND (Spanish - English / English - Spanish)</p>
-
-<p>POLICE REPORT: SUBMIT OR INQUIRY </p>
-
-<p>CREDIT REPORT INQUIRY</p>
-
-<p>REQUEST OF PUBLIC RECORD</p>
-
-<p>COURT DATES INQUIRY</p>
+ <ul>
+     <li>TRAVEL LETTERS FOR MINORS</li>
+     <li>ITIN: FIRST TIME OR RENEWAL</li>
+     <li>FBI FINGERPRINTS <br><em>(Federal Criminal Record)</em></li>
+     <li>WRITINGS OF ANY KIND <br><em>(Spanish - English / English - Spanish)</em></li>
+     <li>POLICE REPORT: Submit or Inquiry </li>
+     <li>CREDIT REPORT INQUIRY</li>
+     <li>REQUEST OF PUBLIC RECORD</li>
+ </ul>
  
 
                 </div>
@@ -66,17 +61,15 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
                 </div>
                 <div class="col coluno colunouno">
- <p>FAX, COPIES, B&W PRINT, COLOR, DOCUMENT SCANNING, EMAIL</p>
-
- <p>ONLINE APPOINTMENTS (Medical and Legal)</p>
-
- <p>CURP SEARCH AND PRINT</p>
-
- <p>ONLINE RESERVATIONS ASSISTANCE (CAR RENTAL, AIRBNB, TICKETS FOR SHOWS, AIRPLANE TICKETS, HOTELS)</p>
-
- <p>CUBAN PASSPORT PROCESSING</p>
-
- <p>FREE GUIDANCE ON LEGAL, FINANCIAL, LABOR, FAMILY AND CIVIL ISSUES</p>
+ <ul>
+     <li>COURT DATES INQUIRY </li>
+     <li>FAX, COPIES, B&W PRINT, COLOR, DOCUMENT SCANNING, EMAIL</li>
+     <li>ONLINE APPOINTMENTS <br><em>(Medical and Legal)</em></li>
+     <li>ONLINE RESERVATIONS ASSISTANCE <br><em>Car Rental, Airbnb, Tickets for Shows, Airplane Tickets, Hotels) </em></li>
+     <li>CURP SEARCH AND PRINT </li>
+     <li>CUBAN PASSPORT PROCESSING</li>
+     <li>FREE GUIDANCE ON LEGAL, FINANCIAL, LABOR, FAMILY AND CIVIL ISSUES</li>
+ </ul>
 
                 </div>
                 <div class="col coldos imamovil2">
@@ -84,8 +77,8 @@
                 </div>
             </div>
         </div>
-    <h3 class="azul">If the service you requires is not listed, please CONTACT US and we will help you <br>
-<a href=""><u>CONTACT US</u></a> y te ayudaremos.</h3>
+    <h3 class="azul">If the service is not listed, please <br><a href="https://documovilaz.com/servicios/#contacto"><u>CONTACT US</u></a> and we will help you.<br>
+ </h3>
    <img class="flor" src="<?php echo get_stylesheet_directory_uri(); ?>/img/flor2.png" alt="Soluciones">
    <div class="naranja">
        <h3>Visit the    <a href="https://calendar.google.com/calendar/u/0/r?tab=cc"><u>EVENT CALENDAR</u></a> and the<br>
@@ -105,7 +98,7 @@
                 </div>
                 <div class="col ">
                     <section id="advertencia2" class="template-section">
-<p><u>We are not attorneys;  </u> therefore we do not provide legal advice.    <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
+<p>We are not attorneys;  therefore we do not provide legal advice. We only <strong>provide guidance</strong> to help you be better informed.  </p>
 </section>
 
                 </div>

@@ -11,7 +11,7 @@
             </div>
              <h3>En DocuMóvil contamos con personal bilingüe <br>para apoyarte en todo tipo de trámites</h3>
              <div class="bot">
- <a href="#contacto" class="btn">SOLICITA UN PRESUPUESTO AQUÍ</a>  <a href="https://www.facebook.com/documovilaz/appointments" class="btn">PROGRAMA UNA CITA AQUÍ</a>
+  <a href="https://www.facebook.com/documovilaz/appointments" class="btn ">PROGRAMA UNA CITA AQUÍ</a><br><a href="#contacto" class="btn programa">SOLICITA UN PRESUPUESTO AQUÍ</a>
        </div>
         </div> 
       
@@ -54,13 +54,14 @@
                 <div class="col prueba_col">
                   <h2>Soluciones al Migrante
 <span>¡CONOCE NUESTROS SERVICIOS!</span></h2>
+                
                    <ul>
-                       <li>Notaria</li>
-<li>Traducciones e interpretaciones personales<br>
-o corporativas</li>
-<li>Orientación gratuita</li>
-<li>Apostila de documentos</li>
-<li>FBI fingerprints</li>
+                       <li>Traducciones e interpretaciones personales y corporativas<br>
+                      (Español - Inglés / Inglés - Español)
+</li>
+<li>Notaría movil y/o en la oficina</li>
+<li>Llenado de solicitudes y/o formatos</li>
+<li>Poderes notariales</li>
                    </ul>
                     <div class="center">
                  <a href="https://documovilaz.com/servicios/" class="btn">Saber más</a>
@@ -91,7 +92,7 @@ o corporativas</li>
         </div>
     </section>
     <section id="video" class="template-section">
-    <h2>INSTAGRAM</h2>
+    <h2>GALERÍA</h2>
      <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
      <?php echo do_shortcode('[elfsight_instagram_feed id="2"]');?>
      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
@@ -100,7 +101,7 @@ o corporativas</li>
 </section>
  
  <section id="advertencia" class="template-section">
-<p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
+<p>No somos abogados, por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
 </section>
 
 <section id="testimonios" class="template-section">

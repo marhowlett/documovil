@@ -124,7 +124,11 @@
     color: @azul;
     font-size: 18px;
 }
-
+a.woodmart-nav-link {
+   font-family: 'Karla'!important;
+    color: @azul;
+    font-size: 18px;
+}
 
 /*Esquema por defecto para las secciones*/
 
@@ -224,7 +228,7 @@ ol {
             margin-left: 15px;
             margin-bottom: 10px;
             &::before {
-               
+                content: "•";
                 color: @azul;
                 padding-right: 10px;
                 position: absolute;
@@ -235,6 +239,8 @@ ol {
 
         
     }
+    
+    
 
 
 
@@ -266,7 +272,7 @@ ol {
     padding: 365px 0;
     .bot {
     position: relative;
-    left: 100px;
+  //  left: 100px;
 }
     .center {
            position: relative;
@@ -297,6 +303,9 @@ ol {
             &:hover {
                  background: @naranja;
             }
+    }
+    a.programa{
+       margin-top: 20px;
     }
     }
 #quienes {
@@ -371,6 +380,9 @@ ol {
     top: -147px;
             margin-bottom: -50px;
     }
+}
+#valores {
+    padding-top: 120px;
 }
 #conocenos {
     h2, h3,p {
@@ -654,6 +666,10 @@ ol {
 }
 #pago {
            padding-top: inherit;
+    p,a,img,h3{
+        opacity: inherit!important;
+            transform: initial!important;
+    }
     .colespe{
             position: relative;
     top: 70px;

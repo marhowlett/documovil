@@ -47,7 +47,7 @@
         <div class="contenedor">
    
      <div class="grid">
-         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMASON</h3>
+         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMANSON</h3>
              <p class="espe"><b>CO - DIRECTORA</b></p>
 
 <p><b>Lugar de Origen:</b><br>

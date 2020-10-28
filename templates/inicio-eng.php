@@ -11,7 +11,7 @@
             </div>
              <h3>DocuMovil has bilingual staff to <br>support you in all types of document procedures</h3>
              <div class="bot">
- <a href="#contacto" class="btn">REQUEST A QUOTE HERE</a>  <a href="https://www.facebook.com/documovilaz/appointments" class="btn">SCHEDULE AN APPOINTMENT HERE</a>
+   <a href="https://www.facebook.com/documovilaz/appointments" class="btn ">SCHEDULE AN APPOINTMENT HERE</a> <br> <a href="#contacto" class="btn programa">REQUEST A QUOTE HERE</a>
        </div>
  
         </div> 
@@ -58,11 +58,10 @@
                   <h2>Migrant Solutions
 <span>Get to know our services!</span></h2>
                    <ul>
-                       <li>Notary</li>
-<li>Personal and corporative translations and interpretations</li>
-<li>Free guidance </li>
-<li>Document Apostille</li>
-<li>FBI Fingerprints</li>
+                       <li>Personal and corporate translations and interpretations.<br>Spanish - English / English - Epanish)</li>
+<li>Mobile notary and in the office</li>
+<li>Document preparation </li>
+<li>Power of attorney</li>
                    </ul>
                     <div class="center">
                  <a href="https://documovilaz.com/services/" class="btn">Learn more</a>
@@ -93,7 +92,7 @@
         </div>
     </section>
     <section id="video" class="template-section">
-    <h2>INSTAGRAM</h2>
+    <h2>GALLERY</h2>
      <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
      <?php echo do_shortcode('[elfsight_instagram_feed id="2"]');?>
      <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/videoflor.png" alt="Soluciones">
@@ -102,11 +101,11 @@
 </section>
  
  <section id="advertencia" class="template-section">
-<p><u>We are not attorneys;  </u> therefore we do not provide legal advice.    <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
+<p>We are not attorneys; therefore we do not provide legal advice. <br>We only <strong>provide guidance</strong> to help you be better informed.  </p>
 </section>
  <section id="testimonios" class="template-section">
    <div class="contenedor">
-    <h2>TESTIMONIOS</h2>
+    <h2>TESTIMONIALS</h2>
      
      <?php echo do_shortcode('[elfsight_testimonials_slider id="1"]');?>
      </div>

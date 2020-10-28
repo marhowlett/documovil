@@ -16,23 +16,20 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s1.png" alt="Soluciones">
                 </div>
                 <div class="col coluno">
-                   <p>TRADUCCIONES E INTERPRETACIONES PERSONALES Y CORPORATIVAS</p>
- 
-<p>NOTARÍA MOVIL Y EN LA OFICINA<br>
--Llenado de solicitudes y formatos</p>
-<p>PODER NOTARIALES<br>
- - General<!-- : <span>100 USD</span>--><br>
- - Parental<!--: <span>50 USD</span>--><br>
- - Cuidado de la salud<!--: <span>100 USD</span>--></p>
- 
-<p>APOSTILLA DE DOCUMENTOS</p>
- 
-<p>CONSULTA DE RECORD CRIMINAL</p>
- 
-<p> REGISTRO DE LLC, EIN Y NOMBRE PARA PEQUEÑOS NEGOCIOS</p>
- 
-<p>CARTAS DE VIAJE PARA MENORES</p>
- 
+                   <ul>
+                       <li>TRADUCCIONES E INTERPRETACIONES PERSONALES Y CORPORATIVAS<br><em>(Español - Inglés / Inglés - Español)</em></li>
+                       <li>NOTARÍA MOVIL Y/O EN LA OFICINA</li>
+                       <li>LLENADO DE SOLICITUDES Y/O FORMATOS</li>
+                       <li>PODERES NOTARIALES<br>
+                        <em>General</em><br>
+                       <em> Parental</em><br>
+                       <em> Cuidado de la salud </em>
+
+                       </li>
+                       <li>APOSTILLA DE DOCUMENTOS </li>
+                       <li>CONSULTA DE RECORD CRIMINAL</li>
+                       <li>REGISTRO DE LLC, EIN Y NOMBRE PARA PEQUEÑOS NEGOCIOS</li>
+                   </ul>
 
                 </div>
                 <div class="col coldos imamovil2">
@@ -44,19 +41,15 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s2.png" alt="Soluciones">
                 </div>
                 <div class="col coldos">
-                <p>ITIN RENOVACION O PRIMERA VEZ</p>
- 
-<p>FBI FINGERPRINTS (Récord Criminal Federal)</p>
- 
-<p>ESCRITOS DE CUALQUIER TIPO (Español - Inglés / Inglés - Español)</p>
-
-<p>REPORTES</p>
- 
-<p>REPORTES DE POLICÍA</p>
- 
-<p>REPORTE DE CREDITO</p>
- 
-<p>SOLICITUD DE RECORD PUBLICOS</p>
+               <ul>
+                   <li>CARTAS DE VIAJE PARA MENORES</li>
+                   <li>ITIN RENOVACION O PRIMERA VEZ</li>
+                   <li>FBI FINGERPRINTS <br><em>(Récord Criminal Federal)</em></li>
+                   <li>ESCRITOS DE CUALQUIER TIPO <br><em>(Español - Inglés / Inglés - Español)</em></li>
+                   <li>REPORTES DE POLICÍA: Hacer o Solicitar</li>
+                   <li>REPORTE DE CREDITO</li>
+                   <li>SOLICITUD DE RECORD PUBLICOS</li>
+               </ul>
                 </div>
                 
             </div>
@@ -65,16 +58,15 @@
                     <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/s3.png" alt="Soluciones">
                 </div>
                 <div class="col coluno colunouno">
-                   <p>CONSULTA FECHAS DE CORTES</p>
- 
-<p>FAX, COPIAS, IMPRESIÓN BYN, COLOR, ESCANEO DE DOCUMENTOS, CORREO ELECTRÓNICO</p>
- 
-<p>CITAS EN LÍNEA (Médicas y Legales)</p>
-
-<p>BÚSQUEDA E IMPRESIÓN DE CURP</p>
-                <p>RESERVACIONES EN LÍNEA (RENTA DE AUTO, AIRBNB, BOLETOS PARA ESPECTÁCULOS, BOLETOS DE AVIÓN, HOTELES)</p>
-                <p>TRAMITE DE PASAPORTE CUBANO</p>
-                <p>ORIENTACIÓN GRATUITA EN TEMAS, LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</p>
+                   <ul>
+                       <li>CONSULTA FECHAS DE CORTES</li>
+                       <li>FAX, COPIAS, IMPRESIÓN BYN, COLOR, ESCANEO DE DOCUMENTOS, CORREO ELECTRÓNICO</li>
+                       <li>CITAS EN LÍNEA <br><em>(Médicas y Legales)</em></li>
+                       <li>BÚSQUEDA E IMPRESIÓN DE CURP</li>
+                       <li>RESERVACIONES EN LÍNEA <br><em>(Renta de Auto, Airbnb, Boletos para Espectáculos, Boletos de Avión, Hoteles)</em></li>
+                       <li>TRAMITE DE PASAPORTE CUBANO</li>
+                       <li>ORIENTACIÓN GRATUITA EN TEMAS, LEGALES, FINANCIEROS, LABORALES, FAMILIARES Y CIVILES</li>
+                   </ul>
 
                 </div>
                 <div class="col coldos imamovil2">
@@ -104,7 +96,7 @@ la comunidad hispana en Arizona.</h3>
                 </div>
                 <div class="col">
                    <section id="advertencia2" class="template-section">
-<p><u>No somos abogados,</u> por lo tanto no proporcionamos asesoría legal, <br>sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
+<p>No somos abogados, por lo tanto no proporcionamos asesoría legal, sólo <strong>brindamos orientación</strong> para ayudarle a estar mejor informado.  </p>
 </section>
                 </div>
             </div>

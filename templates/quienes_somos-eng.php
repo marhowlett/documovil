@@ -40,12 +40,12 @@
 
     </section>
         <section id="conocenos" class="template-section">
-        <h2>CONÓCENOS</h2>
+        <h2>MEET THE TEAM</h2>
      <img class="uno" src="<?php echo get_stylesheet_directory_uri(); ?>/img/video.png" alt="Soluciones">
         <div class="contenedor">
    
      <div class="grid">
-         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMASON</h3>
+         <div class="col"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/laura.png" alt="Soluciones"><h3>LAURA NACHMANSON</h3>
              <p class="espe"><b>CO-OWNER</b></p>
 
 <p><b>Hometown:</b><br>
