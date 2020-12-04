@@ -324,6 +324,8 @@ ol {
   padding: 50px;
 }
 #conocenos img {
+  display: block;
+  margin: auto;
   margin-bottom: 30px;
 }
 #conocenos h3 {
@@ -437,24 +439,29 @@ ol {
 }
 /**QUIENES SOMOS*/
 #quienes_somos {
-  background: url(../img/quienes_somos.jpg) no-repeat center;
+  background: url(../img/quienes_somos.jpg) no-repeat center bottom;
+  /* background-size: cover; */
+  height: 800px;
 }
 #quienes_somos p {
   max-width: 500px;
   text-align: justify;
   margin: auto;
   font-weight: normal;
+  position: relative;
+  float: right;
 }
 #quienes_somos h1 {
   text-align: center;
+  text-align: right;
+  font-size: 62px;
 }
 #quienes_somos .fondo img {
   display: none;
 }
 #quienes_somos .col {
   position: relative;
-  top: -74px;
-  left: 145px;
+  right: 30px;
 }
 #mision p {
   text-align: justify;
@@ -613,10 +620,12 @@ ol {
 #esbrillante p {
   text-align: center;
   color: #00559c !important;
+  position: relative;
+  top: 46px;
 }
 @media (max-width: 768px) {
   .offcanvas-sidebar-mobile .woodmart-sticky-sidebar-opener {
-    display: none;
+    display: none!important;
   }
 }
 @media screen and (min-width: 1800px) {
@@ -729,7 +738,12 @@ ol {
   #quienes_somos .col {
     position: relative;
     top: 20px;
+    right: 0px;
     left: inherit;
+  }
+  #quienes_somos h1 {
+    text-align: center;
+    font-size: 35px;
   }
   #valores img.flor {
     position: relative;
@@ -810,5 +824,16 @@ ol {
     padding: 38px 5px 61px 5px;
     max-width: 1250px;
     margin-bottom: 20px;
+  }
+  #esbrillante img.uno {
+    margin-right: 30px;
+    display: block;
+    margin: auto;
+  }
+  #esbrillante p {
+    top: inherit;
+  }
+  #conocenos .col {
+    padding: 20px;
   }
 }

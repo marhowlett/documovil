@@ -400,7 +400,9 @@ ol {
         padding: 50px;
     }
     img{
-        margin-bottom: 30px;
+       display: block;
+    margin: auto;
+    margin-bottom: 30px;
     }
     h3{
         color: #00559c;
@@ -528,15 +530,22 @@ ol {
 }
 /**QUIENES SOMOS*/
 #quienes_somos {
-     background: url(../img/quienes_somos.jpg) no-repeat center;
+     background: url(../img/quienes_somos.jpg) no-repeat center bottom;
+    /* background-size: cover; */
+    height: 800px;
+
     p {
         max-width: 500px;
     text-align: justify;
             margin: auto;
         font-weight: normal;
+            position: relative;
+    float: right;
     }
     h1 {
         text-align: center;
+        text-align: right;
+            font-size: 62px;
     }
     .fondo {
        img {
@@ -545,8 +554,7 @@ ol {
     }
     .col {
         position: relative;
-   top: -74px;
-    left: 145px;
+   right: 30px;
     }
 }
 #mision {
@@ -721,7 +729,8 @@ ol {
     p {
         text-align: center;
         color: @azul!important;
-        
+            position: relative;
+    top: 46px;
         
     }
 }

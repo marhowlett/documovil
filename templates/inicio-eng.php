@@ -51,7 +51,7 @@
             <div class="grid">
 
                 <div class="col fondo1">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones2.png" alt="Soluciones">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/soluciones.png" alt="Soluciones">
 
                 </div>
                 <div class="col prueba_col">
