@@ -1,0 +1,214 @@
+@media (max-width: 768px) {
+  .offcanvas-sidebar-mobile .woodmart-sticky-sidebar-opener {
+    display: none!important;
+  }
+}
+@media screen and (min-width: 1800px) {
+  #frequently h2,
+  #card h2,
+  #about h2 {
+    left: 400px;
+  }
+}
+@media screen and (max-width: 750px) {
+  /*LOGO*/
+  .whb-scroll-stick .woodmart-logo img {
+    padding-top: 0;
+    transform: scale(1.7) translateY(28px);
+  }
+  canvas {
+    touch-action: auto !important;
+  }
+  .scene-nav {
+    display: none;
+  }
+  /*Esquema por defecto para las secciones*/
+  .grid {
+    display: initial;
+  }
+  .grid .col {
+    width: 100%;
+    min-height: auto;
+  }
+  .grid .col2 {
+    width: 100%;
+    min-height: auto;
+  }
+  .grid.invertido {
+    flex-wrap: wrap-reverse;
+  }
+  .template-section a.btn {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    padding: 15px;
+    margin-left: 10px!important;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  .template-section .col {
+    min-height: auto;
+    padding: 20px;
+  }
+  .template-section h1 {
+    font-size: 35px;
+  }
+  .template-section h1 b {
+    font-size: 38px;
+  }
+  .template-section p,
+  .template-section h2,
+  .template-section h3 {
+    text-align: center;
+  }
+  .template-section a,
+  .template-section p,
+  .template-section ul,
+  .template-section li {
+    font-size: 16px;
+  }
+  .template-section h2 {
+    font-size: 30px;
+  }
+  #truno .imamovil2 {
+    display: none;
+  }
+  #truno .imamovil1 {
+    display: inherit;
+  }
+  #truno .coldos {
+    position: relative;
+    left: inherit;
+  }
+  #truno .coluno {
+    position: relative;
+    right: inherit;
+  }
+  #pago .azul h2,
+  #pago .azul p {
+    color: white;
+    position: relative;
+    top: inherit;
+    right: inherit;
+  }
+  #pago .colespe {
+    margin-bottom: 20px;
+  }
+  #contacto img.flor {
+    margin-top: -126px;
+    position: relative;
+    left: inherit;
+    width: 30%;
+  }
+  #contacto .prueba_col {
+    position: relative;
+    left: inherit;
+  }
+  #quienes_somos {
+    background: none;
+  }
+  #quienes_somos .fondo img {
+    display: inherit;
+  }
+  #quienes_somos .col {
+    position: relative;
+    top: 20px;
+    right: 0px;
+    left: inherit;
+  }
+  #quienes_somos h1 {
+    text-align: center;
+    font-size: 35px;
+  }
+  #valores img.flor {
+    position: relative;
+    left: 141px;
+    top: 58px;
+    margin-top: -160px;
+    max-width: 40%;
+  }
+  #banner {
+    background: url(../img/banner2.jpg) no-repeat center;
+    padding: inherit;
+    margin-bottom: 730px;
+  }
+  #banner .center {
+    position: relative;
+    right: inherit;
+    top: 593px;
+  }
+  #banner .bot {
+    position: relative;
+    left: 0px;
+  }
+  #quienes img {
+    position: relative;
+    top: 60px;
+  }
+  #quienes .prueba_col {
+    margin-top: -30px;
+  }
+  #soluciones {
+    background: none;
+    top: -17px;
+  }
+  #soluciones .fondo1 {
+    display: inherit;
+    position: relative;
+    right: 25px;
+  }
+  #soluciones .fondo2 {
+    display: none;
+  }
+  #soluciones ul {
+    position: relative;
+    left: inherit;
+    margin-bottom: 30px;
+  }
+  #soluciones .prueba_col {
+    position: relative;
+    left: inherit;
+  }
+  #blog {
+    margin-top: -222px;
+  }
+  #blog img.flor {
+    position: relative;
+    top: 99px;
+    max-width: 40%;
+  }
+  #blog h2 {
+    margin-bottom: 45px;
+  }
+  #video img.uno {
+    position: relative;
+    float: right;
+    right: inherit;
+    top: -71px;
+    width: 30%;
+  }
+  #banner h3 {
+    color: white;
+    position: relative;
+    padding: 10px;
+    font-size: 16px;
+    top: -104px;
+  }
+  #banner .azul {
+    background-color: #00559c;
+    padding: 38px 5px 61px 5px;
+    max-width: 1250px;
+    margin-bottom: 20px;
+  }
+  #esbrillante img.uno {
+    margin-right: 30px;
+    display: block;
+    margin: auto;
+  }
+  #esbrillante p {
+    top: inherit;
+  }
+  #conocenos .col {
+    padding: 20px;
+  }
+}
