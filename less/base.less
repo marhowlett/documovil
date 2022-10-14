@@ -90,7 +90,8 @@ h2 {
 }
 
 h2,
-.boldIta {
+h3 .boldIta,
+.boldIta p {
     font-family: @boldItalic  !important;
 }
 
@@ -103,13 +104,16 @@ textarea,
 }
 
 .bold,
+.bold h2,
 button [type="submit"],
 .elementor-button {
-    font-family: @bold;
+    font-family: @bold !important;
+    ;
 }
 
 .semi-bold {
-    font-family: @semiBold;
+    font-family: @semiBold !important;
+    ;
 }
 
 
@@ -139,4 +143,8 @@ ul.list {
 .bg-blue {
     padding: 1.5rem;
     background-color: @blue;
+}
+
+.orange {
+    color: @orange;
 }
