@@ -81,7 +81,17 @@ body {
     .nav-link-text {
         font-family: @medium;
     }
+
+    .wd-nav[class*=wd-style-]>li>a {
+        color: @blue;
+
+        &:hover {
+            color: @pink;
+        }
+    }
+
 }
+
 
 /* Ajustes Fuentes
    ========================================================================== */
@@ -107,12 +117,12 @@ textarea,
 .bold h2,
 button [type="submit"],
 .elementor-button {
-    font-family: @bold !important;
+    font-family: @bold  !important;
     ;
 }
 
 .semi-bold {
-    font-family: @semiBold !important;
+    font-family: @semiBold  !important;
 }
 
 
