@@ -157,13 +157,35 @@ footer {
     }
 
     button[type="submit"] {
-        color: @orange!important;
-        text-transform: uppercase!important;
-        font-family: @boldItalic!important;
-        background-color: white!important;
+        color: @orange  !important;
+        text-transform: uppercase !important;
+        font-family: @boldItalic  !important;
+        background-color: white !important;
     }
 
 }
+
+@media (max-width: 767px) {
+
+    #contacto {
+        background-image: none !important;
+        background-color: @blue;
+
+        .formulario .elementor-widget-wrap {
+            padding: 0px !important;
+        }
+
+    }
+
+    #contacto,
+    #brillante {
+
+        .elementor-column {
+            width: 100% !important;
+        }
+    }
+}
+
 
 
 
