@@ -1,0 +1,156 @@
+/* Colores
+   ========================================================================== */
+/* Tipografías 
+   ========================================================================== */
+html {
+  font-size: 62.5%;
+}
+body {
+  scroll-behavior: smooth;
+  font-size: 1.6rem;
+}
+/* Fuentes Web
+   ========================================================================== */
+@font-face {
+  font-family: 'Metropolis-Regular';
+  src: url('fonts/Metropolis-Regular.woff2') format('woff2'), url('fonts/Metropolis-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Metropolis-SemiBold';
+  src: url('fonts/Metropolis-SemiBold.woff2') format('woff2'), url('fonts/Metropolis-SemiBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Metropolis-Medium';
+  src: url('fonts/Metropolis-Medium.woff2') format('woff2'), url('fonts/Metropolis-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Metropolis-Bold';
+  src: url('fonts/Metropolis-Bold.woff2') format('woff2'), url('fonts/Metropolis-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Metropolis-BoldItalic';
+  src: url('fonts/Metropolis-BoldItalic.woff2') format('woff2'), url('fonts/Metropolis-BoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Metropolis-ExtraBoldItalic';
+  src: url('fonts/Metropolis-ExtraBoldItalic.woff2') format('woff2'), url('fonts/Metropolis-ExtraBoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+/* Ajustes Header
+   ========================================================================== */
+.whb-header,
+.whb-sticky-header {
+  margin-bottom: 0 !important;
+}
+.whb-header .container,
+.whb-sticky-header .container {
+  max-width: 115rem !important;
+}
+.whb-header .nav-link-text,
+.whb-sticky-header .nav-link-text {
+  font-family: 'Metropolis-Medium';
+}
+.whb-header .wd-nav[class*=wd-style-] > li > a,
+.whb-sticky-header .wd-nav[class*=wd-style-] > li > a {
+  color: #00559c;
+}
+.whb-header .wd-nav[class*=wd-style-] > li > a:hover,
+.whb-sticky-header .wd-nav[class*=wd-style-] > li > a:hover {
+  color: #e0428e;
+}
+/* Ajustes Fuentes
+   ========================================================================== */
+h2 {
+  font-family: 'Metropolis-ExtraBoldItalic';
+}
+h2,
+h3 .boldIta,
+.boldIta p {
+  font-family: 'Metropolis-BoldItalic' !important;
+}
+p,
+div,
+input,
+textarea,
+.subtitle h3 {
+  font-family: 'Metropolis-Regular' !important;
+}
+.bold,
+.bold h2,
+button [type="submit"],
+.elementor-button {
+  font-family: 'Metropolis-Bold' !important;
+}
+.semi-bold {
+  font-family: 'Metropolis-SemiBold' !important;
+}
+/* Ajustes Generales
+   ========================================================================== */
+span.wpml-ls-display {
+  color: #f19800 !important;
+}
+ul.list {
+  list-style: none;
+}
+ul.list li::before {
+  content: ">";
+  left: 2px;
+  color: #e0428e;
+  font-size: 20px;
+  padding-right: 20px;
+  position: absolute;
+  margin-left: -9px;
+}
+footer input,
+footer textarea {
+  background: none !important;
+}
+footer .wpforms-submit-container {
+  display: flex;
+  justify-content: flex-end;
+}
+footer button[type="submit"] {
+  color: #f19800 !important;
+  text-transform: uppercase !important;
+  font-family: 'Metropolis-BoldItalic' !important;
+  background-color: white !important;
+}
+@media (max-width: 767px) {
+  #contacto {
+    background-image: none !important;
+    background-color: #00559c;
+  }
+  #contacto .elementor-widget-wrap {
+    padding: 15px !important;
+  }
+  #contacto .elementor-column,
+  #brillante .elementor-column {
+    width: 100% !important;
+  }
+}
+/* Clases Generales
+   ========================================================================== */
+.bg-blue {
+  padding: 1.5rem;
+  background-color: #00559c;
+}
+.orange {
+  color: #f19800;
+}
